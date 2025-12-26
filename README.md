@@ -10,10 +10,6 @@
 pip install PyPDF2
 🚀 Usage
 bashpython pdf_merger.py
-```
-
-**Follow the prompts:**
-```
 ===== PDF Merger Tool =====
 Enter folder path: ./my-documents
 Enter output file name: combined.pdf
