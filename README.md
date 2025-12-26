@@ -4,13 +4,8 @@
 📂 Batch Processing - Handles all PDFs in a folder automatically
 🔤 Smart Sorting - Files merged in alphabetical order
 💬 Interactive CLI - Easy-to-use command-line interface
-⚡ Lightweight - Only one dependency required
 
 📦 Installation
-bash# Clone the repository
-git clone https://github.com/yourusername/pdf-merger-tool.git
-cd pdf-merger-tool
-
 # Install required package
 pip install PyPDF2
 🚀 Usage
@@ -70,7 +65,6 @@ The script uses sensible defaults, but you can modify the `merge_pdfs()` functio
 **PDFs in wrong order**
 - Rename files with number prefixes: `01-file.pdf`, `02-file.pdf`
 
-### 📝 Example File Structure
 ```
 my-documents/
 ├── 01-introduction.pdf
@@ -79,12 +73,7 @@ my-documents/
 └── 04-conclusion.pdf
 
 → Output: combined.pdf (in my-documents/)
-🤝 Contributing
-Contributions welcome! Feel free to:
 
-Report bugs
-Suggest features
-Submit pull requests
 
 📄 License
 MIT License - free to use and modify.
