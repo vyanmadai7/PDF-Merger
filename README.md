@@ -1,9 +1,9 @@
 ✨ Features
 
-🚀 Simple & Fast - Merge PDFs in seconds
-📂 Batch Processing - Handles all PDFs in a folder automatically
-🔤 Smart Sorting - Files merged in alphabetical order
-💬 Interactive CLI - Easy-to-use command-line interface
+🚀 Simple & Fast - Merge PDFs in seconds.
+📂 Batch Processing - Handles all PDFs in a folder automatically.
+🔤 Smart Sorting - Files merged in alphabetical order.
+💬 Interactive CLI - Easy-to-use command-line interface.
 
 📦 Installation
 # Install required package
