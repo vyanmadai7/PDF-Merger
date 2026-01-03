@@ -1,14 +1,14 @@
-✨ Features
+Features
 
-🚀 Simple & Fast - Merge PDFs in seconds.
-📂 Batch Processing - Handles all PDFs in a folder automatically.
-🔤 Smart Sorting - Files merged in alphabetical order.
-💬 Interactive CLI - Easy-to-use command-line interface.
+Simple & Fast - Merge PDFs in seconds.
+Batch Processing - Handles all PDFs in a folder automatically.
+Smart Sorting - Files merged in alphabetical order.
+Interactive CLI - Easy-to-use command-line interface.
 
-📦 Installation
+Installation
 # Install required package
 pip install PyPDF2
-🚀 Usage
+Usage
 bashpython pdf_merger.py
 ===== PDF Merger Tool =====
 Enter folder path: ./my-documents
@@ -21,7 +21,7 @@ Added: chapter-03.pdf
 All PDFs merged successfully into: combined.pdf
 ```
 
-### 📖 How It Works
+### How It Works
 
 1. **Specify folder** containing your PDF files
 2. **Name your output** file
@@ -29,26 +29,26 @@ All PDFs merged successfully into: combined.pdf
 
 Files are automatically sorted alphabetically, so use prefixes like `01-`, `02-` to control the order.
 
-### 🎯 Use Cases
+###  Use Cases
 
 - Combine multiple scanned documents
 - Merge report chapters into one file
 - Consolidate invoices or receipts
 - Join split PDF files
 
-### ⚙️ Requirements
+###  Requirements
 
 - Python 3.x
 - PyPDF2
 
-### 🛠️ Configuration
+### Configuration
 
 The script uses sensible defaults, but you can modify the `merge_pdfs()` function to:
 - Filter specific PDF patterns
 - Add custom sorting logic
 - Include subdirectories
 
-### ❗ Troubleshooting
+### Troubleshooting
 
 **Error: Folder not found**
 - Check the folder path is correct
@@ -71,5 +71,5 @@ my-documents/
 → Output: combined.pdf (in my-documents/)
 
 
-📄 License
+ License
 MIT License - free to use and modify.
