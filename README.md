@@ -38,7 +38,7 @@ Files are automatically sorted alphabetically, so use prefixes like `01-`, `02-`
 
 ###  Requirements
 
-- Python 3.x
+- Python 3
 - PyPDF2
 
 ### Configuration
@@ -54,7 +54,8 @@ The script uses sensible defaults, but you can modify the `merge_pdfs()` functio
 - Check the folder path is correct
 - Use absolute paths if relative paths don't work
 
-**Error: Permission denied**
+Error: Permission denied
+
 - Ensure you have write permissions in the folder
 - Close any PDFs that are currently open
 
